@@ -42,7 +42,7 @@ inline bool isDividibleBy(uint64_t, uint64_t);
 
 
 
-int main()
+int main7()
 {
 	// Defining variables
 

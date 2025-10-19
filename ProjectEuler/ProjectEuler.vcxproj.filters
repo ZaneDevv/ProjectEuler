@@ -57,6 +57,9 @@
     <ClCompile Include="Problems\Problem14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Problems\Problem0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Problems\Colors\Colors.h">
